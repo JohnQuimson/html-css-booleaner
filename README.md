@@ -1,9 +1,18 @@
 # The Booleaner
 
-Riproduzione di un sito web; elementi presenti:
+Riproduzione di un sito web
 
-- pannello superiore con sfondo 
-- immagini con descrizione
+# Elementi HTML utilizzati:
+
+- input img
 - lista puntata
 - tabella 
 
+# Elementi CSS utilizzati:
+
+- classi
+- id
+- background
+- font
+- allineamento testo
+- margin
