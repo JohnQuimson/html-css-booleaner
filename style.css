@@ -32,3 +32,21 @@ h1{
 .titolo span{
     color: #20a9e5;
 }
+
+/* main */
+
+.foto{
+    margin-top: 2vh;
+}
+
+.descrizione{
+    font-size: 12px;
+}
+
+.evidenziato span{
+    background-color: #ffff00;
+}
+
+ul{
+    margin-left: 0px;
+}
