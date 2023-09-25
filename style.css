@@ -1,8 +1,13 @@
-
+body{
+    padding: 0;
+    margin: 0;
+}
 
 /* header */
 header img{
     height: 50px;
+    margin-top: 40px;
+    margin-left: 5px;
 }
 
 .pannello-sup{
@@ -50,8 +55,7 @@ h1{
     /* tabella */
 
 table{
-    font-size: 15px;
-
+    border-collapse: collapse;
 }
 
 thead{
@@ -59,7 +63,23 @@ thead{
     color: white;
 }
 
+.terza-col{
+    width: 50%;
+}
+
 .az-chiaro{
     background-color: #b1e5f2;
+}
+
+/* footer */
+
+strong{
+    color: #808080;
+}
+
+.riquadro{
+    height: 120px;
+    width: 150px;
+    border: 1px solid black;
 }
 
