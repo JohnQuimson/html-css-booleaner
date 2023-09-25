@@ -70,3 +70,41 @@ thead{
 .az-chiaro{
     background-color: #6e91a0;
 }
+
+/* Footer */
+footer{
+    background-color: #92c0cc;
+    margin-top: 30px;
+    padding: 30px;
+    border-radius: 20px;
+}
+
+.riquadro{
+    height: 200px;
+    width: 220px;
+    border: 1px solid black;
+    color: white;
+}
+
+footer p{
+    text-align: center;
+}
+
+#r1{
+    background: url(img/monitor.jpg);
+    background-size: cover;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+
+#r2{
+    background: url(img/graph.jpg);
+    background-size: cover;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+strong{
+    font-size: 30px;
+}
