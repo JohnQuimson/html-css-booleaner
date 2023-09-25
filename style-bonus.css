@@ -32,3 +32,41 @@ h1{
     color: white;
     padding: 5px;
 }
+
+/* Main */
+
+main{
+    background-color: #89b2bd;
+    padding: 40px;
+    border-radius: 20px;
+}
+
+.evidenziato{
+    background-color: #596d85;
+    padding: 10px;
+}
+
+.evidenziato span{
+    background-color: #769da7;
+    padding: 2px;
+    color: white;
+}
+
+table{
+    border-collapse: collapse;
+    margin-left: 5px;
+    border: 1px solid #596d85;
+}
+
+thead{
+    background-color: #466c7c;
+    color: white;
+}
+
+.terza-col{
+    width: 50%;
+}
+
+.az-chiaro{
+    background-color: #6e91a0;
+}
