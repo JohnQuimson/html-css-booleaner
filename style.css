@@ -5,7 +5,7 @@ body{
 
 /* header */
 header img{
-    height: 50px;
+    height: 45px;
     margin-top: 40px;
     margin-left: 5px;
 }
@@ -21,13 +21,15 @@ h1{
     font-size: 34px;
     font-family: Verdana, Geneva, Tahoma, sans-serif ;
     margin: 0px;
+    margin-top: 10px;
 }
 
 .titolo p{
     margin: 0px;
     color: #808080;
     font-size: 15px;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif 
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 5px;
 }
 
 #data{
@@ -42,10 +44,12 @@ h1{
 
 .foto{
     margin-top: 2vh;
+    margin-left: 5px;
 }
 
 .descrizione{
     font-size: 12px;
+    margin-left: 5px;
 }
 
 .evidenziato span{
@@ -56,6 +60,7 @@ h1{
 
 table{
     border-collapse: collapse;
+    margin-left: 5px;
 }
 
 thead{
@@ -78,8 +83,27 @@ strong{
 }
 
 .riquadro{
-    height: 120px;
-    width: 150px;
+    height: 150px;
+    width: 180px;
     border: 1px solid black;
+    color: white;
 }
 
+footer p{
+    text-align: center;
+}
+
+#r1{
+    background: url(img/monitor.jpg);
+    background-size: cover;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+
+#r2{
+    background: url(img/graph.jpg);
+    background-size: cover;
+    margin-left: 5px;
+    margin-top: 5px;
+}
